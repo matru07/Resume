@@ -1,5 +1,5 @@
 .bgimg{
-    background-image:url("flora.jpeg");
+    background-image:url("imx.jpg");
     background-size: 100% 100%;
      background-attachment: fixed;
      width: 100%;
@@ -25,9 +25,11 @@
 }
  
 .aboutme{
+    
     padding: 200px 0px 100px;
   
 }
+
 .aboutme h1{
     font-family: "Poppins", sans-serif;
     font-weight: bold;
@@ -116,8 +118,11 @@ font-family:  'Inconsolata', monospace;
      font-family:  'Inconsolata', monospace;
  }
  .logo{
-    width:100;
-     height:100;
+ width:150px;
+ height:150px;
+ border:2;
+     border-radius:50%;
+    
  }
 
  /* //////////////////////////////////// */
